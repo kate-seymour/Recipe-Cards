@@ -1,6 +1,6 @@
 /***** BASE STYLES *****/
 body {
-    background-color: #DAF7F6;
+    background-color: #5A7167;
     font-family: 'OpenSans', sans-serif;
     font-size: 12px;
     line-height: 16px;
@@ -46,16 +46,16 @@ main {
     box-sizing: border-box;
     overflow: auto;
 }
-#cookies .image {
-    background-image: url('../img/gluten-free-sugar-cookies.jpg');
+#rolls .image {
+    background-image: url('../img/cinnamon-roll.jpg');
     background-size: cover;
 }
-#pesto .image {
-    background-image: url('../img/nut-free-pesto.jpg');
+#hash .image {
+    background-image: url('../img/skillet.jpg');
     background-size: cover;
 }
 #salad .image {
-    background-image: url('../img/watermelon-salad.jpg');
+    background-image: url('../img/caviar.jpg');
     background-size: cover;
 }
 .recipe h2 {
